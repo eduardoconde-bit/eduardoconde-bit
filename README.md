@@ -1,16 +1,34 @@
-## Hi there 👋
+# Olá, eu sou Luis Eduardo! 👋
 
-<!--
-**eduardoconde-bit/eduardoconde-bit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Formação**
+- Bacharelado em Sistemas de Informação pela Universidade Federal do Pará (UFPA)
 
-Here are some ideas to get you started:
+📖 **Tecnologias**
+- HTML
+- CSS
+- Javascript
+- Python
+- PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 **Aprendendo Atualmente**
+- PHP
+- Laravel
+- MySQL
+- MariaDB
+- Tailwind CSS
+- Sistemas Operacionais
+- Engenharia de Software
+- Grafos
+- Teoria de Banco de Dados
+
+💼 **Experiência Profissional**
+- Estagiário em Tecnologia da Informação no [SEGE](https://sege.ufpa.br)
+
+💬 **Vamos Conversar!**
+- [LinkedIn](https://www.linkedin.com/in/eduardoconde-bit)
+- [Email](luiseduardojp8@gmail.com)
+
+⚡ **Curiosidades**
+- Entusiasta de Audiofilia com In-Ears, ouvinte eclético de boa música.
+
+Obrigado por visitar meu perfil! Sinta-se à vontade para contribuir com meus projetos ou entrar em contato.
